@@ -26,7 +26,6 @@ This dashboard helps stakeholders monitor sales performance, customer ratings, o
 
 ![Instamart Dashboard](https://github.com/sudhakar-S004/Instamart-Sales-Dashboard/blob/main/Instamart%20Sales%20Dashboard.JPG)
 
-> *(Replace `Dashboard.png` with your exported dashboard image name.)*
 
 ---
 
