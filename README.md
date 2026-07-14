@@ -115,7 +115,6 @@ The dataset contains information related to:
 **Sudhakar M**
 
 - LinkedIn: https://www.linkedin.com/in/sudhakar--m/
-- GitHub: https://github.com/yourusername
 
 ---
 
